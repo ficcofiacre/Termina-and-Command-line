@@ -1,2 +1,2 @@
-# Termina-and-Command-line
+# Terminal-and-Command-line
 Assessment 
